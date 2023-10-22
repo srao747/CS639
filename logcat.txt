@@ -1,0 +1,313 @@
+---------------------------- PROCESS STARTED (12553) for package com.example.myfirstapp ----------------------------
+--------- beginning of kernel
+--------- beginning of system
+--------- beginning of main
+2023-10-21 21:35:02.320  4944-4944  mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-21 21:35:02.400  4944-4944  mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-21 21:35:02.406  4944-4944  mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-21 21:35:03.052  4944-4944  Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-21 21:35:03.056  4944-4944  Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-21 21:35:03.113  4944-4944  ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-21 21:35:03.115  4944-4944  ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-21 21:35:03.124  4944-4944  ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~8SCtiphHtBY1oR9joWh1SA==/com.example.myfirstapp-TVE6jNg8inW9Q_z-9FlL6g==/base.dm': No such file or directory
+2023-10-21 21:35:03.125  4944-4944  ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~8SCtiphHtBY1oR9joWh1SA==/com.example.myfirstapp-TVE6jNg8inW9Q_z-9FlL6g==/base.dm': No such file or directory
+2023-10-21 21:35:03.193  4944-4944  nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~8SCtiphHtBY1oR9joWh1SA==/com.example.myfirstapp-TVE6jNg8inW9Q_z-9FlL6g==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~8SCtiphHtBY1oR9joWh1SA==/com.example.myfirstapp-TVE6jNg8inW9Q_z-9FlL6g==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-21 21:35:03.224  4944-4944  GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-21 21:35:03.225  4944-4944  GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-21 21:35:03.225  4944-4944  GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-21 21:35:03.231  4944-4944  GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-21 21:35:03.232  4944-4944  GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-21 21:35:03.233  4944-4944  GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-21 21:35:03.269   614-650   AppHibernationService   system_server                        E  Package com.example.myfirstapp is not installed for user 0
+2023-10-21 21:35:03.284   614-650   AppHibernationService   system_server                        E  Package com.example.myfirstapp is not installed for any user
+2023-10-21 21:35:03.285   614-650   AppHibernationService   system_server                        E  Package com.example.myfirstapp is not installed for user 0
+2023-10-21 21:35:03.320   614-650   AppHibernationService   system_server                        E  Package com.example.myfirstapp is not installed for any user
+2023-10-21 21:35:03.440  4944-4969  libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-21 21:35:03.465  4944-4969  libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-21 21:35:03.490  4944-4969  libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-21 21:35:03.907  4944-4944  AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-21 21:35:05.927  4944-4944  Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171228096; UID 10190; state: ENABLED
+2023-10-21 21:35:05.977  4944-4944  Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-21 21:35:06.047  4944-4944  mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-21 21:35:06.284  4944-4944  mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-21 21:35:06.495  4944-4944  Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-21 21:35:06.499  4944-4944  OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-21 21:35:06.824  4944-4967  OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-21 21:35:06.832  4944-4967  OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-21 21:35:06.948  4944-4967  Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-21 21:35:06.979  4944-4967  OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-21 21:35:07.168  4944-4944  Choreographer           com.example.myfirstapp               I  Skipped 36 frames!  The application may be doing too much work on its main thread.
+2023-10-21 21:35:11.938  4944-4944  WindowOnBackDispatcher  com.example.myfirstapp               W  sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@870bde
+2023-10-21 21:35:12.316  4944-4967  OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-21 21:35:21.469  4944-4955  mple.myfirstapp         com.example.myfirstapp               W  Cleared Reference was only reachable from finalizer (only reported once)
+2023-10-21 21:35:21.473  4944-4955  mple.myfirstapp         com.example.myfirstapp               I  Background concurrent copying GC freed 23431(1945KB) AllocSpace objects, 0(0B) LOS objects, 49% free, 4133KB/8267KB, paused 6.397ms,257us total 30.190ms
+2023-10-22 04:53:40.370 10759-10759 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 04:53:40.891 10759-10759 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 04:53:40.894 10759-10759 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 04:53:41.328 10759-10759 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 04:53:41.332 10759-10759 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 04:53:41.442 10759-10759 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 04:53:41.443 10759-10759 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 04:53:41.448 10759-10759 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~cxvuurY1UkgVITAMTJW4JQ==/com.example.myfirstapp-s8f7722kzSibKixRc6SCtQ==/base.dm': No such file or directory
+2023-10-22 04:53:41.452 10759-10759 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~cxvuurY1UkgVITAMTJW4JQ==/com.example.myfirstapp-s8f7722kzSibKixRc6SCtQ==/base.dm': No such file or directory
+2023-10-22 04:53:42.339 10759-10759 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~cxvuurY1UkgVITAMTJW4JQ==/com.example.myfirstapp-s8f7722kzSibKixRc6SCtQ==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~cxvuurY1UkgVITAMTJW4JQ==/com.example.myfirstapp-s8f7722kzSibKixRc6SCtQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 04:53:42.407 10759-10759 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 04:53:42.407 10759-10759 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 04:53:42.408 10759-10759 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 04:53:42.412 10759-10759 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 04:53:42.413 10759-10759 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 04:53:42.415 10759-10759 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 04:53:42.807 10759-10809 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 04:53:42.826 10759-10809 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 04:53:42.844 10759-10809 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 04:53:43.114 10759-10759 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 04:53:44.913 10759-10759 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 04:53:44.971 10759-10759 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 04:53:45.226 10759-10759 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 04:53:45.411 10759-10759 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 04:53:45.435 10759-10759 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 04:53:45.480 10759-10759 Choreographer           com.example.myfirstapp               I  Skipped 167 frames!  The application may be doing too much work on its main thread.
+2023-10-22 04:53:45.962 10759-10807 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 04:53:45.964 10759-10807 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 04:53:46.198 10759-10807 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 04:53:46.476 10759-10807 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 04:53:46.720 10759-10759 Choreographer           com.example.myfirstapp               I  Skipped 73 frames!  The application may be doing too much work on its main thread.
+2023-10-22 04:53:46.738 10759-10792 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=4027ms; Flags=1, FrameTimelineVsyncId=26196, IntendedVsync=17969763285648, Vsync=17972546618870, InputEventId=0, HandleInputStart=17972563768240, AnimationStart=17972563925040, PerformTraversalsStart=17972567701040, DrawStart=17973562528640, FrameDeadline=17969779952314, FrameInterval=17972559282740, FrameStartTime=16666666, SyncQueued=17973593638240, SyncStart=17973595888340, IssueDrawCommandsStart=17973599446440, SwapBuffers=17973787830040, FrameCompleted=17973792882040, DequeueBufferDuration=800200, QueueBufferDuration=1166300, GpuCompleted=17973791243240, SwapBuffersCompleted=17973792882040, DisplayPresentTime=0, CommandSubmissionCompleted=17973787830040, 
+2023-10-22 04:53:46.768 10759-10792 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=1248ms; Flags=0, FrameTimelineVsyncId=26233, IntendedVsync=17972579952202, Vsync=17973796618820, InputEventId=0, HandleInputStart=17973802529440, AnimationStart=17973802669440, PerformTraversalsStart=17973805467440, DrawStart=17973807491340, FrameDeadline=17973813285486, FrameInterval=17973799816440, FrameStartTime=16666666, SyncQueued=17973807801840, SyncStart=17973811257740, IssueDrawCommandsStart=17973811916240, SwapBuffers=17973815771140, FrameCompleted=17973832020540, DequeueBufferDuration=154700, QueueBufferDuration=1498300, GpuCompleted=17973832020540, SwapBuffersCompleted=17973821015540, DisplayPresentTime=0, CommandSubmissionCompleted=17973815771140, 
+2023-10-22 04:53:50.130 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=419.65ms min=7.93ms max=3027.50ms count=8
+2023-10-22 04:53:50.792 10759-10823 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 04:53:51.246 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=185.46ms min=167.14ms max=206.26ms count=6
+2023-10-22 04:53:52.422 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=293.42ms min=188.24ms max=577.79ms count=4
+2023-10-22 04:53:53.992 10759-10759 WindowOnBackDispatcher  com.example.myfirstapp               W  OnBackInvokedCallback is not enabled for the application.
+                                                                                                    Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+2023-10-22 04:53:54.216 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=1792.86ms min=1792.86ms max=1792.86ms count=1
+2023-10-22 05:10:59.674 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=341814.09ms min=6.18ms max=1025423.50ms count=3
+2023-10-22 05:11:53.318 10759-10759 WindowOnBackDispatcher  com.example.myfirstapp               W  OnBackInvokedCallback is not enabled for the application.
+                                                                                                    Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+2023-10-22 05:11:53.408 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=10738.17ms min=8.71ms max=53591.43ms count=5
+2023-10-22 05:12:10.710 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=2875.38ms min=4.53ms max=17215.49ms count=6
+2023-10-22 05:12:19.306 10759-10759 WindowOnBackDispatcher  com.example.myfirstapp               W  OnBackInvokedCallback is not enabled for the application.
+                                                                                                    Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+2023-10-22 05:12:19.352 10759-10807 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=1726.81ms min=14.64ms max=8541.52ms count=5
+2023-10-22 05:12:34.204 11460-11460 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 05:12:34.271 11460-11460 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 05:12:34.272 11460-11460 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 05:12:34.504 11460-11460 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 05:12:34.505 11460-11460 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 05:12:34.551 11460-11460 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 05:12:34.552 11460-11460 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 05:12:34.555 11460-11460 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~ztJQGJBqInenV7CL0c9vvQ==/com.example.myfirstapp-np7U_aYvuKit12vnGX_iGg==/base.dm': No such file or directory
+2023-10-22 05:12:34.556 11460-11460 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~ztJQGJBqInenV7CL0c9vvQ==/com.example.myfirstapp-np7U_aYvuKit12vnGX_iGg==/base.dm': No such file or directory
+2023-10-22 05:12:34.734 11460-11460 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~ztJQGJBqInenV7CL0c9vvQ==/com.example.myfirstapp-np7U_aYvuKit12vnGX_iGg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~ztJQGJBqInenV7CL0c9vvQ==/com.example.myfirstapp-np7U_aYvuKit12vnGX_iGg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 05:12:34.766 11460-11460 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 05:12:34.766 11460-11460 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 05:12:34.767 11460-11460 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 05:12:34.770 11460-11460 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 05:12:34.771 11460-11460 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 05:12:34.772 11460-11460 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 05:12:35.079 11460-11499 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 05:12:35.085 11460-11499 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 05:12:35.094 11460-11499 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 05:12:35.498 11460-11460 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 05:12:37.125 11460-11460 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 05:12:37.168 11460-11460 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 05:12:37.335 11460-11460 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 05:12:37.455 11460-11460 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 05:12:37.458 11460-11460 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 05:12:37.481 11460-11460 Choreographer           com.example.myfirstapp               I  Skipped 146 frames!  The application may be doing too much work on its main thread.
+2023-10-22 05:12:37.614 11460-11498 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 05:12:37.615 11460-11498 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 05:12:37.690 11460-11498 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 05:12:37.710 11460-11498 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 05:12:37.847 11460-11478 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=2792ms; Flags=1, FrameTimelineVsyncId=29922, IntendedVsync=19102113240354, Vsync=19104546573590, InputEventId=0, HandleInputStart=19104562664640, AnimationStart=19104562778440, PerformTraversalsStart=19104563496140, DrawStart=19104792061540, FrameDeadline=19102129907020, FrameInterval=19104560724840, FrameStartTime=16666666, SyncQueued=19104807699540, SyncStart=19104811004540, IssueDrawCommandsStart=19104813825840, SwapBuffers=19104891966540, FrameCompleted=19104909541040, DequeueBufferDuration=117700, QueueBufferDuration=722200, GpuCompleted=19104909541040, SwapBuffersCompleted=19104894433940, DisplayPresentTime=0, CommandSubmissionCompleted=19104891966540, 
+2023-10-22 05:12:43.384 11460-11510 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 05:12:43.616 11460-11460 WindowOnBackDispatcher  com.example.myfirstapp               W  OnBackInvokedCallback is not enabled for the application.
+                                                                                                    Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+2023-10-22 05:12:43.748 11460-11498 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=651.19ms min=6.07ms max=5633.51ms count=9
+2023-10-22 05:12:47.576 11460-11498 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=949.49ms min=5.70ms max=3780.38ms count=4
+2023-10-22 05:14:53.228 11582-11582 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 05:14:53.279 11582-11582 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 05:14:53.281 11582-11582 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 05:14:53.460 11582-11582 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 05:14:53.463 11582-11582 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 05:14:53.485 11582-11582 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 05:14:53.486 11582-11582 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 05:14:53.488 11582-11582 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~JaVs-V1BkZxAoVNRF8tzYQ==/com.example.myfirstapp-4yQJW3yIIPLlPDQko2_lNg==/base.dm': No such file or directory
+2023-10-22 05:14:53.490 11582-11582 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~JaVs-V1BkZxAoVNRF8tzYQ==/com.example.myfirstapp-4yQJW3yIIPLlPDQko2_lNg==/base.dm': No such file or directory
+2023-10-22 05:14:53.593 11582-11582 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~JaVs-V1BkZxAoVNRF8tzYQ==/com.example.myfirstapp-4yQJW3yIIPLlPDQko2_lNg==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~JaVs-V1BkZxAoVNRF8tzYQ==/com.example.myfirstapp-4yQJW3yIIPLlPDQko2_lNg==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 05:14:53.619 11582-11582 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 05:14:53.620 11582-11582 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 05:14:53.620 11582-11582 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 05:14:53.625 11582-11582 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 05:14:53.626 11582-11582 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 05:14:53.627 11582-11582 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 05:14:53.961 11582-11623 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 05:14:53.973 11582-11623 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 05:14:53.979 11582-11623 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 05:14:54.371 11582-11582 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 05:14:56.101 11582-11582 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 05:14:56.139 11582-11582 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 05:14:56.273 11582-11582 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 05:14:56.378 11582-11582 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 05:14:56.381 11582-11582 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 05:14:56.407 11582-11582 Choreographer           com.example.myfirstapp               I  Skipped 153 frames!  The application may be doing too much work on its main thread.
+2023-10-22 05:14:56.532 11582-11621 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 05:14:56.534 11582-11621 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 05:14:56.616 11582-11621 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 05:14:56.635 11582-11621 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 05:14:56.747 11582-11603 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=2884ms; Flags=1, FrameTimelineVsyncId=32667, IntendedVsync=19240929901468, Vsync=19243479901366, InputEventId=0, HandleInputStart=19243489936740, AnimationStart=19243490123140, PerformTraversalsStart=19243491777240, DrawStart=19243715858740, FrameDeadline=19240946568134, FrameInterval=19243486780840, FrameStartTime=16666666, SyncQueued=19243731264340, SyncStart=19243732980340, IssueDrawCommandsStart=19243735324540, SwapBuffers=19243801846240, FrameCompleted=19243815978440, DequeueBufferDuration=145500, QueueBufferDuration=566500, GpuCompleted=19243815978440, SwapBuffersCompleted=19243806323640, DisplayPresentTime=0, CommandSubmissionCompleted=19243801846240, 
+2023-10-22 05:15:01.900 11582-11638 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 05:17:09.498 11711-11711 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 05:17:09.524 11711-11711 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 05:17:09.526 11711-11711 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 05:17:09.710 11711-11711 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 05:17:09.711 11711-11711 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 05:17:09.743 11711-11711 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 05:17:09.744 11711-11711 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 05:17:09.748 11711-11711 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~sUoVq66e0jeLzKpGEkwtvg==/com.example.myfirstapp-w_Ls59mFGT5Zh9W81xNiVw==/base.dm': No such file or directory
+2023-10-22 05:17:09.750 11711-11711 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~sUoVq66e0jeLzKpGEkwtvg==/com.example.myfirstapp-w_Ls59mFGT5Zh9W81xNiVw==/base.dm': No such file or directory
+2023-10-22 05:17:09.898 11711-11711 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~sUoVq66e0jeLzKpGEkwtvg==/com.example.myfirstapp-w_Ls59mFGT5Zh9W81xNiVw==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~sUoVq66e0jeLzKpGEkwtvg==/com.example.myfirstapp-w_Ls59mFGT5Zh9W81xNiVw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 05:17:09.944 11711-11711 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 05:17:09.947 11711-11711 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 05:17:09.954 11711-11711 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 05:17:09.959 11711-11711 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 05:17:09.961 11711-11711 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 05:17:09.964 11711-11711 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 05:17:10.388 11711-11751 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 05:17:10.398 11711-11751 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 05:17:10.419 11711-11751 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 05:17:10.892 11711-11711 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 05:17:12.692 11711-11711 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 05:17:12.734 11711-11711 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 05:17:12.882 11711-11711 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 05:17:13.015 11711-11711 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 05:17:13.021 11711-11711 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 05:17:13.058 11711-11711 Choreographer           com.example.myfirstapp               I  Skipped 165 frames!  The application may be doing too much work on its main thread.
+2023-10-22 05:17:13.202 11711-11749 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 05:17:13.203 11711-11749 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 05:17:13.298 11711-11749 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 05:17:13.314 11711-11749 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 05:17:13.470 11711-11729 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=3150ms; Flags=1, FrameTimelineVsyncId=35337, IntendedVsync=19377379896010, Vsync=19380129895900, InputEventId=0, HandleInputStart=19380139788540, AnimationStart=19380139927040, PerformTraversalsStart=19380142169240, DrawStart=19380395045140, FrameDeadline=19377396562676, FrameInterval=19380137182240, FrameStartTime=16666666, SyncQueued=19380421090040, SyncStart=19380422789640, IssueDrawCommandsStart=19380425424540, SwapBuffers=19380509329340, FrameCompleted=19380532068740, DequeueBufferDuration=153200, QueueBufferDuration=1258000, GpuCompleted=19380532068740, SwapBuffersCompleted=19380512841140, DisplayPresentTime=0, CommandSubmissionCompleted=19380509329340, 
+2023-10-22 05:17:18.482 11711-11761 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 05:22:52.506 11979-11979 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 05:22:52.543 11979-11979 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 05:22:52.546 11979-11979 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 05:22:52.739 11979-11979 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 05:22:52.740 11979-11979 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 05:22:52.763 11979-11979 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 05:22:52.764 11979-11979 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 05:22:52.766 11979-11979 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~J6Cxk398lL7f86LlVTSEGw==/com.example.myfirstapp-xAzKP7FzdoDsQ5uhrBJ9nw==/base.dm': No such file or directory
+2023-10-22 05:22:52.766 11979-11979 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~J6Cxk398lL7f86LlVTSEGw==/com.example.myfirstapp-xAzKP7FzdoDsQ5uhrBJ9nw==/base.dm': No such file or directory
+2023-10-22 05:22:52.915 11979-11979 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~J6Cxk398lL7f86LlVTSEGw==/com.example.myfirstapp-xAzKP7FzdoDsQ5uhrBJ9nw==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~J6Cxk398lL7f86LlVTSEGw==/com.example.myfirstapp-xAzKP7FzdoDsQ5uhrBJ9nw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 05:22:52.944 11979-11979 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 05:22:52.945 11979-11979 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 05:22:52.946 11979-11979 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 05:22:52.948 11979-11979 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 05:22:52.950 11979-11979 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 05:22:52.951 11979-11979 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 05:22:53.246 11979-12024 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 05:22:53.263 11979-12024 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 05:22:53.276 11979-12024 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 05:22:53.584 11979-11979 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 05:22:55.101 11979-11979 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 05:22:55.144 11979-11979 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 05:22:55.276 11979-11979 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 05:22:55.390 11979-11979 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 05:22:55.394 11979-11979 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 05:22:55.416 11979-11979 Choreographer           com.example.myfirstapp               I  Skipped 132 frames!  The application may be doing too much work on its main thread.
+2023-10-22 05:22:55.535 11979-12022 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 05:22:55.536 11979-12022 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 05:22:55.610 11979-12022 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 05:22:55.623 11979-12022 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 05:22:55.746 11979-12014 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=2516ms; Flags=1, FrameTimelineVsyncId=37768, IntendedVsync=19720279882294, Vsync=19722479882206, InputEventId=0, HandleInputStart=19722498323240, AnimationStart=19722498539440, PerformTraversalsStart=19722499785440, DrawStart=19722703579540, FrameDeadline=19720296548960, FrameInterval=19722495123540, FrameStartTime=16666666, SyncQueued=19722720866240, SyncStart=19722721967340, IssueDrawCommandsStart=19722723730140, SwapBuffers=19722794938340, FrameCompleted=19722797876840, DequeueBufferDuration=242700, QueueBufferDuration=1670300, GpuCompleted=19722797363340, SwapBuffersCompleted=19722797876840, DisplayPresentTime=0, CommandSubmissionCompleted=19722794938340, 
+2023-10-22 05:23:01.352 11979-12048 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 05:26:26.520 12310-12310 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 05:26:26.548 12310-12310 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 05:26:26.550 12310-12310 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 05:26:26.699 12310-12310 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 05:26:26.701 12310-12310 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 05:26:26.721 12310-12310 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 05:26:26.722 12310-12310 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 05:26:26.723 12310-12310 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~3SF0eBx63JWMaYJKWcqJGA==/com.example.myfirstapp-uBInJjAhgmQN4jBBDQLhlQ==/base.dm': No such file or directory
+2023-10-22 05:26:26.724 12310-12310 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~3SF0eBx63JWMaYJKWcqJGA==/com.example.myfirstapp-uBInJjAhgmQN4jBBDQLhlQ==/base.dm': No such file or directory
+2023-10-22 05:26:26.889 12310-12310 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~3SF0eBx63JWMaYJKWcqJGA==/com.example.myfirstapp-uBInJjAhgmQN4jBBDQLhlQ==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~3SF0eBx63JWMaYJKWcqJGA==/com.example.myfirstapp-uBInJjAhgmQN4jBBDQLhlQ==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 05:26:26.913 12310-12310 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 05:26:26.914 12310-12310 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 05:26:26.915 12310-12310 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 05:26:26.919 12310-12310 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 05:26:26.920 12310-12310 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 05:26:26.920 12310-12310 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 05:26:27.141 12310-12355 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 05:26:27.147 12310-12355 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 05:26:27.149 12310-12355 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 05:26:27.427 12310-12310 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 05:26:28.699 12310-12310 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 05:26:28.726 12310-12310 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 05:26:28.836 12310-12310 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 05:26:28.921 12310-12310 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 05:26:28.924 12310-12310 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 05:26:28.940 12310-12310 Choreographer           com.example.myfirstapp               I  Skipped 109 frames!  The application may be doing too much work on its main thread.
+2023-10-22 05:26:29.023 12310-12354 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 05:26:29.024 12310-12354 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 05:26:29.095 12310-12354 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 05:26:29.102 12310-12354 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 05:26:29.211 12310-12330 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=2068ms; Flags=1, FrameTimelineVsyncId=41010, IntendedVsync=19934196540404, Vsync=19936013206998, InputEventId=0, HandleInputStart=19936022196140, AnimationStart=19936022322040, PerformTraversalsStart=19936023120740, DrawStart=19936183062540, FrameDeadline=19934213207070, FrameInterval=19936019586540, FrameStartTime=16666666, SyncQueued=19936193990240, SyncStart=19936195031640, IssueDrawCommandsStart=19936197224840, SwapBuffers=19936258532840, FrameCompleted=19936265961240, DequeueBufferDuration=81800, QueueBufferDuration=420700, GpuCompleted=19936265961240, SwapBuffersCompleted=19936260876640, DisplayPresentTime=0, CommandSubmissionCompleted=19936258532840, 
+2023-10-22 05:26:34.276 12310-12364 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 05:28:55.857 12553-12553 mple.myfirstapp         com.example.myfirstapp               I  Late-enabling -Xcheck:jni
+2023-10-22 05:28:55.878 12553-12553 mple.myfirstapp         com.example.myfirstapp               I  Using CollectorTypeCC GC.
+2023-10-22 05:28:55.879 12553-12553 mple.myfirstapp         com.example.myfirstapp               W  Unexpected CPU variant for x86: x86_64.
+                                                                                                    Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, tremont, kabylake, default
+2023-10-22 05:28:56.056 12553-12553 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 171979766; UID 10190; state: ENABLED
+2023-10-22 05:28:56.058 12553-12553 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 242716250; UID 10190; state: DISABLED
+2023-10-22 05:28:56.092 12553-12553 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.extensions.jar
+2023-10-22 05:28:56.093 12553-12553 ApplicationLoaders      com.example.myfirstapp               D  Returning zygote-cached class loader: /system_ext/framework/androidx.window.sidecar.jar
+2023-10-22 05:28:56.096 12553-12553 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~ye8RTaMLITmSLeC2SDCLng==/com.example.myfirstapp-zgOMT1rcqRiCVYItVkxARw==/base.dm': No such file or directory
+2023-10-22 05:28:56.098 12553-12553 ziparchive              com.example.myfirstapp               W  Unable to open '/data/app/~~ye8RTaMLITmSLeC2SDCLng==/com.example.myfirstapp-zgOMT1rcqRiCVYItVkxARw==/base.dm': No such file or directory
+2023-10-22 05:28:56.229 12553-12553 nativeloader            com.example.myfirstapp               D  Configuring clns-6 for other apk /data/app/~~ye8RTaMLITmSLeC2SDCLng==/com.example.myfirstapp-zgOMT1rcqRiCVYItVkxARw==/base.apk. target_sdk_version=33, uses_libraries=, library_path=/data/app/~~ye8RTaMLITmSLeC2SDCLng==/com.example.myfirstapp-zgOMT1rcqRiCVYItVkxARw==/lib/x86_64, permitted_path=/data:/mnt/expand:/data/user/0/com.example.myfirstapp
+2023-10-22 05:28:56.252 12553-12553 GraphicsEnvironment     com.example.myfirstapp               V  Currently set values for:
+2023-10-22 05:28:56.254 12553-12553 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_pkgs=[]
+2023-10-22 05:28:56.255 12553-12553 GraphicsEnvironment     com.example.myfirstapp               V    angle_gl_driver_selection_values=[]
+2023-10-22 05:28:56.258 12553-12553 GraphicsEnvironment     com.example.myfirstapp               V  ANGLE GameManagerService for com.example.myfirstapp: false
+2023-10-22 05:28:56.260 12553-12553 GraphicsEnvironment     com.example.myfirstapp               V  com.example.myfirstapp is not listed in per-application setting
+2023-10-22 05:28:56.261 12553-12553 GraphicsEnvironment     com.example.myfirstapp               V  Neither updatable production driver nor prerelease driver is supported.
+2023-10-22 05:28:56.579 12553-12604 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libEGL_emulation.so
+2023-10-22 05:28:56.594 12553-12604 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv1_CM_emulation.so
+2023-10-22 05:28:56.603 12553-12604 libEGL                  com.example.myfirstapp               D  loaded /vendor/lib64/egl/libGLESv2_emulation.so
+2023-10-22 05:28:56.969 12553-12553 AppCompatDelegate       com.example.myfirstapp               D  Checking for metadata for AppLocalesMetadataHolderService : Service not found
+2023-10-22 05:28:58.151 12553-12553 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 210923482; UID 10190; state: ENABLED
+2023-10-22 05:28:58.179 12553-12553 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+2023-10-22 05:28:58.280 12553-12553 mple.myfirstapp         com.example.myfirstapp               W  Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+2023-10-22 05:28:58.368 12553-12553 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 237531167; UID 10190; state: DISABLED
+2023-10-22 05:28:58.371 12553-12553 OpenGLRenderer          com.example.myfirstapp               W  Unknown dataspace 0
+2023-10-22 05:28:58.386 12553-12553 Choreographer           com.example.myfirstapp               I  Skipped 113 frames!  The application may be doing too much work on its main thread.
+2023-10-22 05:28:58.478 12553-12602 OpenGLRenderer          com.example.myfirstapp               W  Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+2023-10-22 05:28:58.479 12553-12602 OpenGLRenderer          com.example.myfirstapp               W  Failed to initialize 101010-2 format, error = EGL_SUCCESS
+2023-10-22 05:28:58.552 12553-12602 Gralloc4                com.example.myfirstapp               I  mapper 4.x is not supported
+2023-10-22 05:28:58.564 12553-12602 OpenGLRenderer          com.example.myfirstapp               E  Unable to match the desired swap behavior.
+2023-10-22 05:28:58.662 12553-12570 OpenGLRenderer          com.example.myfirstapp               I  Davey! duration=2147ms; Flags=1, FrameTimelineVsyncId=43940, IntendedVsync=20083579867762, Vsync=20085463201020, InputEventId=0, HandleInputStart=20085468732640, AnimationStart=20085468862040, PerformTraversalsStart=20085469912640, DrawStart=20085645593640, FrameDeadline=20083596534428, FrameInterval=20085465554740, FrameStartTime=16666666, SyncQueued=20085662580840, SyncStart=20085663981540, IssueDrawCommandsStart=20085666113240, SwapBuffers=20085726412240, FrameCompleted=20085728695640, DequeueBufferDuration=69900, QueueBufferDuration=571900, GpuCompleted=20085727781040, SwapBuffersCompleted=20085728695640, DisplayPresentTime=0, CommandSubmissionCompleted=20085726412240, 
+2023-10-22 05:29:03.837 12553-12612 ProfileInstaller        com.example.myfirstapp               D  Installing profile for com.example.myfirstapp
+2023-10-22 05:34:36.783 12553-12553 WindowOnBackDispatcher  com.example.myfirstapp               W  OnBackInvokedCallback is not enabled for the application.
+                                                                                                    Set 'android:enableOnBackInvokedCallback="true"' in the application manifest.
+2023-10-22 05:34:36.902 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=42268.75ms min=3.44ms max=338006.19ms count=8
+2023-10-22 05:34:38.316 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=342.32ms min=3.54ms max=1356.40ms count=4
+2023-10-22 05:34:39.459 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=151.55ms min=3.67ms max=1030.02ms count=7
+2023-10-22 05:34:41.024 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=1563.33ms min=1563.33ms max=1563.33ms count=1
+2023-10-22 05:34:42.174 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=163.88ms min=145.81ms max=183.43ms count=7
+2023-10-22 05:34:43.311 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=162.04ms min=137.89ms max=183.61ms count=7
+2023-10-22 05:34:49.450 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=2045.82ms min=131.95ms max=5789.51ms count=3
+2023-10-22 05:35:14.228 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=4117.55ms min=3.62ms max=24683.65ms count=6
+2023-10-22 05:35:34.761 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=3421.48ms min=11.99ms max=20450.58ms count=6
+2023-10-22 05:35:35.811 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=209.75ms min=165.13ms max=315.90ms count=5
+2023-10-22 05:35:36.943 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=161.48ms min=132.58ms max=183.59ms count=7
+2023-10-22 05:35:38.112 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=583.69ms min=217.76ms max=949.62ms count=2
+2023-10-22 05:35:39.180 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=167.98ms min=3.02ms max=988.20ms count=6
+2023-10-22 05:35:41.219 12553-12553 Compatibil...geReporter com.example.myfirstapp               D  Compat change id reported: 147798919; UID 10190; state: ENABLED
+2023-10-22 05:35:43.928 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=948.92ms min=11.01ms max=4684.61ms count=5
+2023-10-22 05:35:45.011 12553-12602 EGL_emulation           com.example.myfirstapp               D  app_time_stats: avg=1081.64ms min=1081.64ms max=1081.64ms count=1
