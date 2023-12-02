@@ -1,0 +1,2 @@
+Dependency injection is a vital technique in Android development, offering advantages such as enhanced code reusability, simplified refactoring, and streamlined testing.
+main: The initial state of the codelab.
